@@ -141,7 +141,7 @@ Ng suggests these ways for fixing a model with high bias:
 * Try a new model architecture (this can be hard)
 
 # How to Fix High Variance
-Ng suggests these ways for fixing a model with high bias:
+Ng suggests these ways for fixing a model with high variance:
 * **Get more data**
   * This includes data synthesis and data augmentation
 * Try adding regularization
